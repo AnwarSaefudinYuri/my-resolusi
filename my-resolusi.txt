@@ -5,3 +5,4 @@
 5. learn laravel
 6. learn ngedit video
 7. nyoba ai
+8. nambah test
