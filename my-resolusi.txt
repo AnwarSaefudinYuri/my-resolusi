@@ -2,7 +2,7 @@
 2. konsisten produktif
 3. ajar desain
 4. try to do better
-5. learn laravel
-6. learn ngedit video
-7. nyoba ai
-8. nambah test
+5. learn node js
+6. learn laravel
+
+
