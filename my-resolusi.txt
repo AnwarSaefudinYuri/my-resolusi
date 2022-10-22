@@ -4,3 +4,4 @@
 4. try to do better
 5. learn laravel
 6. learn ngedit video
+7. nyoba ai
