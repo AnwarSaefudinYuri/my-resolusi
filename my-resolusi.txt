@@ -2,3 +2,4 @@
 2. konsisten produktif
 3. ajar desain
 4. try to do better
+5. learn laravel
